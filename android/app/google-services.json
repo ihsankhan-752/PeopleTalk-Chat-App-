@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372979846320",
+    "project_id": "peopletalk-ac7a4",
+    "storage_bucket": "peopletalk-ac7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372979846320:android:97497fdf7bfb1a4b5bbf75",
+        "android_client_info": {
+          "package_name": "com.pixatronix.peopletalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372979846320-rl0p50v3idcqft423kobftlmkrgvmhm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgF4dYqplx6sj3Xr9BhvC524FQgpP2ebc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372979846320-rl0p50v3idcqft423kobftlmkrgvmhm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
